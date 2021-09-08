@@ -4,3 +4,6 @@
 [submodule "label-ace-group"]
 	path = label-ace-group
 	url = git@github.com:xmarts/label-ace-group.git
+[submodule "wk-odoo-directly-print-reports"]
+	path = wk-odoo-directly-print-reports
+	url = git@github.com:xmarts/wk-odoo-directly-print-reports.git
