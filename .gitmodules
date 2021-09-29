@@ -7,3 +7,6 @@
 [submodule "ga-stock-prearrival"]
 	path = ga-stock-prearrival
 	url = git@github.com:xmarts/ga-stock-prearrival.git
+[submodule "wk-odoo-directly-print-reports"]
+	path = wk-odoo-directly-print-reports
+	url = git@github.com:xmarts/wk-odoo-directly-print-reports.git
