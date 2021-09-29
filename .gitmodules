@@ -1,0 +1,3 @@
+[submodule "ga-stock-prearrival"]
+	path = ga-stock-prearrival
+	url = git@github.com:xmarts/ga-stock-prearrival.git
