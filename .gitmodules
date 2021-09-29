@@ -4,3 +4,6 @@
 [submodule "label-ace-group"]
 	path = label-ace-group
 	url = git@github.com:xmarts/label-ace-group.git
+[submodule "product_label_for_ZP"]
+	path = product_label_for_ZP
+	url = git@github.com:xmarts/product_label_for_ZP.git
