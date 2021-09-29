@@ -1,4 +1,0 @@
-[submodule "xmarts/ga-stock-prearrival"]
-	path = xmarts/ga-stock-prearrival
-	url = git@github.com:xmarts/ga-stock-prearrival.git
-	branch = 14.0-migracion
